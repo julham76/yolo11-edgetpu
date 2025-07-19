@@ -1,5 +1,5 @@
 ini untuk raspberry pi 4. Link tutorialnya: https://www.youtube.com/watch?v=lJRLzXf7EVs
-ini di ambil dari https://github.com/freedomwebtech/yolo11-edgetpu/tree/main
+ini di ambil dari https://github.com/freedomwebtech/yolo11-edgetpu/tree/main   dan   https://docs.ultralytics.com/guides/coral-edge-tpu-on-raspberry-pi/#can-i-export-my-ultralytics-yolo11-model-to-be-compatible-with-coral-edge-tpu
 
 sedangkan untuk menjalankannya di ubuntu 22.04, maka lakukan perintah berikut ini
 1. buat envi pyhton 3.8.19
