@@ -5,7 +5,7 @@ sedangkan untuk menjalankannya di ubuntu 22.04, maka lakukan perintah berikut in
 1. buat envi pyhton 3.8.19
 2. pip install ultralytics ncnn  [lama kali installnya karena 2GB]
 3. pip install opencv-contrib-python
-4. lalu ikuti acuan dari https://github.com/google-coral/edgetpu/issues/771
-   pip install https://github.com/google-coral/pycoral/releases/download/v2.0.0/tflite_runtime-2.5.0.post1-cp38-cp38-linux_x86_64.whl
-   pip install https://github.com/google-coral/pycoral/releases/download/v2.0.0/pycoral-2.0.0-cp38-cp38-linux_x86_64.whl
+4. lalu ikuti acuan dari https://github.com/google-coral/edgetpu/issues/771 <br>
+   pip install https://github.com/google-coral/pycoral/releases/download/v2.0.0/tflite_runtime-2.5.0.post1-cp38-cp38-linux_x86_64.whl <br>
+   pip install https://github.com/google-coral/pycoral/releases/download/v2.0.0/pycoral-2.0.0-cp38-cp38-linux_x86_64.whl <br>
 selesai
