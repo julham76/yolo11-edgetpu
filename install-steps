@@ -1,3 +1,4 @@
+INI UTK RASPBERRY OS BOOKWORM 2025
 ########################INSTALL PYTHON 3.9.12#########################
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
 pip3 install --upgrade thonny
