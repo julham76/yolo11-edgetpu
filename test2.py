@@ -9,7 +9,7 @@ import time
 model = YOLO('yolo11n_full_integer_quant_edgetpu.tflite')
 
 
-cap = cv2.VideoCapture('sampah.mp4')
+cap = cv2.VideoCapture(0)
 
 #my_file = open("coco.txt", "r")
 #data = my_file.read()
