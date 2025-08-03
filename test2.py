@@ -6,10 +6,10 @@ import cvzone
 import time
 
 
-model = YOLO('yolo11n_full_integer_quant_edgetpu.tflite')
+model = YOLO('my_modelyolo11s_coco128_full_integer_quant_edgetpu.tflite')
 
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0) #webcam
 
 #my_file = open("coco.txt", "r")
 #data = my_file.read()
